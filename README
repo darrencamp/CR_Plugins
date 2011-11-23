@@ -1,0 +1,5 @@
+CodeRush Plugins
+================
+
+CR_ReturnValueNotUsed
+    A code analysis plugin to detect when a result from a method is unused.
